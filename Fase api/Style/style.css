@@ -1,0 +1,45 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#haderWrite {
+    text-align: center;
+    padding: 10px;
+    background: rgb(0, 102, 255);
+    font-family: "arial black";
+    color: white;
+}
+
+.child-cuntry-div {
+    width: 127px;
+    overflow: hidden;
+    float: left;
+}
+
+.child-stade-div {
+    width: 124px;
+    overflow: hidden;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.child-city-div {
+    width: 127px;
+    overflow: hidden;
+}
+
+div#parants-div {
+    width: 460px;
+    overflow: hidden;
+    margin: auto;
+    padding-top: 30px;
+}
+
+select {
+    font-size: 15px;
+    text-align: center !important;
+    width: 124px;
+    outline: none;
+}
